@@ -1,0 +1,8 @@
+opencv-python
+numpy
+tqdm
+matplotlib
+scipy
+seaborn
+torch
+jupyter
